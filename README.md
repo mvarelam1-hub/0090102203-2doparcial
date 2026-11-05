@@ -15,3 +15,4 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 Laboratorio CI Jenkins - Marlon Isai Varela Marroquin (0900-10-2203): prueba de webhook con Ngrok.
+Prueba de webhook desde la segunda PC (Docker + ngrok) - Marlon Isai Varela Marroquin (0900-10-2203).
